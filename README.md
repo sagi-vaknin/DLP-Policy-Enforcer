@@ -5,7 +5,7 @@
   <p align="center">
    DLP Policy Enforcer for Email Classification
     <br />
-    <a href="https://github.com/YOUR_USERNAME/dlp-policy-enforcer"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sagi-vaknin/dlp-policy-enforcer"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
@@ -29,7 +29,7 @@ This project implements a DLP (Data Loss Prevention) policy enforcer for classif
 
 ## Contact
 
-Your Name - your.email@example.com<br>
+Sagi Vaknin - sagivak1@gmail.com<br>
 LinkedIn  - https://www.linkedin.com/in/sagi-vaknin-sv <br>
 Project Link: [https://github.com/sagi-vaknin/dlp-policy-enforcer](https://github.com/sagi-vaknin/dlp-policy-enforcer)
 
